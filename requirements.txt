@@ -1,0 +1,5 @@
+gradio
+lightgbm
+pandas
+numpy
+requests
